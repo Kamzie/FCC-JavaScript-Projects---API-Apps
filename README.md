@@ -1,2 +1,2 @@
-FCC-JavaScript-Projects
+# FCC-JavaScript-Projects
 Freecodecamp projects
