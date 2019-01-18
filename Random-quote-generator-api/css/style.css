@@ -1,0 +1,62 @@
+body {
+  background-color: #e6f2ff;
+  margin: 20px;
+  font-family: "lato", sans-serif;
+}
+#quote-box {
+  padding: 20px 15px 5px 15px;
+  margin-right: 15%;
+  margin-left: 15%;
+  border-left: 10px solid #0033cc;
+  background-color: #cce6ff;
+}
+#text {
+  text-align: center;
+  font-size: 1em;
+  color: #0033cc;
+  font-style: italic;
+  font-weight: bold;
+}
+#author {
+  text-align: center;
+  font-size: 0.8em;
+  color: #0033cc;
+  font-weight: bold;
+}
+#button {
+  text-align: center;
+  padding: 20px;
+}
+#new-quote {
+  color: #0033cc;
+  background-color: #e6f2ff;
+}
+#foot {
+  text-align: center;
+  font-size: 0.5em;
+  text-decoration: none;
+  color: #0033cc;
+}
+#foot a {
+  color: #000090;
+}
+#foot a:hover {
+  text-decoration: none;
+  color: #cce6ff;
+}
+
+@media only screen and (max-width: 450px) {
+  #title {
+    font-size: 1.3em;
+  }
+  #quote-box {
+    margin-right: 1%;
+    margin-left: 1%;
+  }
+  #quote {
+    font-size: 0.8em;
+  }
+  #author {
+    font-size: 0.5em;
+  }
+}
