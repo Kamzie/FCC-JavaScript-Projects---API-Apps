@@ -1,6 +1,6 @@
 # FCC-JavaScript-Projects
 
-Tribute Page:   
+Random Quote Generator (API):   
 https://codepen.io/kamzie/pen/jxNPaL
 
 Survey Form:  
