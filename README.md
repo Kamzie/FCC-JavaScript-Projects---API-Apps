@@ -1,8 +1,7 @@
 # FCC-JavaScript-Projects
 
 
-Random Quote Generator (API):
-
+Random Quote Generator:
 https://codepen.io/kamzie/pen/zjeaBW
 
 
