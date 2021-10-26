@@ -1,2 +1,5 @@
 # FCC-JavaScript-Projects
-Freecodecamp projects
+
+Simple Weather App (Geolocation API):
+https://codepen.io/kamzie/pen/OZYjYw
+
