@@ -1,14 +1,17 @@
 # FCC-JavaScript-Projects
 
-Random Quote Generator API:
+Tribute Page:   
+https://codepen.io/kamzie/pen/jxNPaL
 
-https://codepen.io/kamzie/pen/zjeaBW
+Survey Form:  
+https://codepen.io/kamzie/pen/XoVMvO?editors=0100
 
-Simple Weather App (Geolocation API):
+Product Landing Page:   
+https://codepen.io/kamzie/pen/VqQoKG?editors=0100
 
-https://codepen.io/kamzie/pen/OZYjYw
+Technical Documentation Page:   
+https://codepen.io/kamzie/pen/vvRdyY?editors=0100
 
-Wikipedia Viewer API:
-
-https://codepen.io/kamzie/pen/MGNjjV
+Personal Portfolio Webpage:   
+https://codepen.io/kamzie/pen/OJgjomq
 
