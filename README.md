@@ -1,6 +1,7 @@
 # FCC-JavaScript-Projects
 
-Freecodecamp Javascript end of topic projects 
+Freecodecamp Javascript end of topic projects
+
 Build small apps that can pull data from API's
 
 Random Quote Generator (API):   
