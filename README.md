@@ -1,6 +1,6 @@
 # FCC-JavaScript-Projects
 
-Freecodecamp Java completion + final projects = https://www.freecodecamp.org/certification/Kamzie/javascript-algorithms-and-data-structures
+Freecodecamp Javascript end of topic projects + final projects = https://www.freecodecamp.org/certification/Kamzie/javascript-algorithms-and-data-structures
 
 Build small apps that can pull data from API's
 
