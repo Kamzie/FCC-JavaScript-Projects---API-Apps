@@ -1,19 +1,17 @@
-# FCC-JavaScript-Projects
+# Freecodecamp Javascript end of topic projects
 
-Freecodecamp Javascript end of topic projects
+### Build small apps that can pull data from API's
 
-Build small apps that can pull data from API's
-
-Random Quote Generator (API):   
-Press return/enter to generate new quotes, or use the new quote button
+### Random Quote Generator (API):   
+Press return/enter to generate new quotes, or use the new quote button  
 https://codepen.io/kamzie/full/zjeaBW
 
-Simple Weather App (API):   
-Local weather with buttons to switch between celsius and fahrenheit
+### Simple Weather App (API):   
+Local weather with buttons to switch between celsius and fahrenheit  
 https://codepen.io/kamzie/full/OZYjYw
 
-Wikipedia Viewer (API):   
-Enter search topic and press enter to find wiki links
+### Wikipedia Viewer (API):   
+Enter search topic and press enter to find wiki links  
 https://codepen.io/kamzie/full/MGNjjV
 
 
