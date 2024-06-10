@@ -1,8 +1,4 @@
-Here's an improved version:
-
----
-
-**FreeCodeCamp JavaScript Projects**
+## FreeCodeCamp JavaScript Projects
 
 1. **Random Quote Generator (API):**
    - Click the quote button to generate random quotes.
