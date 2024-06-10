@@ -1,21 +1,22 @@
-# Freecodecamp Javascript end of topic projects
+Here's an improved version:
 
-### Build small apps that can pull data from API's
+---
 
-### Random Quote Generator (API):   
-Press the quote button to generate random quotes  
-https://codepen.io/kamzie/full/zjeaBW
+**FreeCodeCamp JavaScript Projects**
 
-### Simple Weather App (API):   
-Local weather with buttons to switch temp between celsius and fahrenheit.  
-https://codepen.io/kamzie/full/OZYjYw
+1. **Random Quote Generator (API):**
+   - Click the quote button to generate random quotes.
+   - [View Project](https://codepen.io/kamzie/full/zjeaBW)
 
-### Wikipedia Viewer (API):   
-Enter search topic and press the search button.  
-Press the random button to open a random wiki page.  
-https://codepen.io/kamzie/full/MGNjjV
+2. **Simple Weather App (API):**
+   - Check the local weather with options to switch between Celsius and Fahrenheit.
+   - [View Project](https://codepen.io/kamzie/full/OZYjYw)
 
-Final projects.  
-https://www.freecodecamp.org/certification/Kamzie/javascript-algorithms-and-data-structures
+3. **Wikipedia Viewer (API):**
+   - Enter a search topic and press the search button.
+   - Click the random button to open a random Wikipedia page.
+   - [View Project](https://codepen.io/kamzie/full/MGNjjV)
 
+**Final Projects:**
+- Explore my final projects [here](https://www.freecodecamp.org/certification/Kamzie/javascript-algorithms-and-data-structures).
 
