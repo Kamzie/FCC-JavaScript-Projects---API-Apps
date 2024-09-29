@@ -9,7 +9,7 @@
    - [View Project](https://codepen.io/kamzie/full/OZYjYw)
 
 3. **Wikipedia Viewer (API):**
-   - Enter a search topic and press the search button.
+   - Enter a search topic and press the search button/ or enter/return via keyboard.
    - Click the random button to open a random Wikipedia page.
    - [View Project](https://codepen.io/kamzie/full/MGNjjV)
 
